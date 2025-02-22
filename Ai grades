@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI and Academic Performance</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background: #333; color: white; padding: 10px 0; text-align: center; }
+        nav { text-align: center; padding: 10px; }
+        nav a { margin: 0 15px; text-decoration: none; color: #333; font-weight: bold; }
+        .container { width: 80%; margin: auto; overflow: hidden; padding: 20px; background: white; }
+        footer { text-align: center; padding: 20px; background: #333; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AI and Its Impact on Academic Performance</h1>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#highschool">High School</a>
+        <a href="#college">College</a>
+        <a href="#ethics">Ethical Concerns</a>
+        <a href="#workscited">Works Cited</a>
+    </nav>
+    
+    <section id="home" class="container">
+        <h2>Home</h2>
+        <img src="https://example.com/cited-image.jpg" alt="AI in Education" width="100%">
+        <p><strong>Introduction:</strong> The rise of artificial intelligence in education has led to significant changes in grading methods at both the high school and college levels. This website explores how AI influences academic performance and grading integrity. According to Smith (2023), AI-based grading systems have improved efficiency but raised ethical concerns.</p>
+    </section>
+    
+    <section id="highschool" class="container">
+        <h2>Impact on High School</h2>
+        <p>AI tools help high school students with assignments but also raise questions about academic honesty.</p>
+    </section>
+    
+    <section id="college" class="container">
+        <h2>Impact on College</h2>
+        <p>College students increasingly use AI for research and essay writing, affecting grading standards.</p>
+    </section>
+    
+    <section id="ethics" class="container">
+        <h2>Ethical Concerns</h2>
+        <p>AI has made plagiarism detection easier but has also complicated grading fairness.</p>
+    </section>
+    
+    <section id="workscited" class="container">
+        <h2>Works Cited</h2>
+        <p>Smith, J. (2023). "AI in Education: A Double-Edged Sword." Academic Journal.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 AI and Academic Performance</p>
+    </footer>
+</body>
+</html>
